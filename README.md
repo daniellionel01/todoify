@@ -40,7 +40,7 @@ gleam add todoify@1
 ```
 
 ```sh
-$ gleam run -m todoify
+gleam run -m todoify
 ```
 
 ## Development
