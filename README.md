@@ -33,6 +33,19 @@ The module `playground/foo` does not have a `bar` value.
 ⚠️ Since this library modifies source code, please make sure to save your work with a
 version control system before running todoify. ⚠️
 
+## Scope
+
+Here is an overview of what Todoify does and not do with your source code:
+
+- ✅ create missing modules
+- ✅ create missing functions
+- ✅ create missing constants
+
+- ❌ resolve type missmatch
+- ❌ create missing variables
+- ❌ override existing module files
+- ❌ override existing functions with a body
+
 ## Usage
 
 ```sh
