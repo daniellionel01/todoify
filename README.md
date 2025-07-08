@@ -40,7 +40,7 @@ Here is an overview of what Todoify does and not do with your source code:
 - ✅ create missing modules
 - ✅ create missing functions
 - ✅ create missing constants
-
+<br />
 - ❌ resolve type missmatch
 - ❌ create missing variables
 - ❌ override existing module files
