@@ -29,8 +29,9 @@ error: Unknown module value
 The module `playground/foo` does not have a `bar` value.
 ```
 
+
 ⚠️ Since this library modifies source code, please make sure to save your work with a
-version control system before running todoify.
+version control system before running todoify. ⚠️
 
 ## Usage
 
