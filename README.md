@@ -5,7 +5,7 @@
 
 ## Work in Progress
 
-**This project is a WIP and is not working yet**
+**This project is a WIP and is not yet usable**
 
 ## Introduction
 
