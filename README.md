@@ -3,6 +3,10 @@
 [![Package Version](https://img.shields.io/hexpm/v/todoify)](https://hex.pm/packages/todoify)
 [![Hex Docs](https://img.shields.io/badge/hex-docs-ffaff3)](https://hexdocs.pm/todoify/)
 
+## Work in Progress
+
+*This project is a WIP and is not working yet*
+
 ## Introduction
 
 Todoify creates `todo` placeholders for any missing modules or function calls in your gleam program. This is useful for when you are working with codegeneration and might have code relying on modules that errored during generation.
